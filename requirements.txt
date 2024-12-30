@@ -1,11 +1,49 @@
-Flask @ file:///C:/b/abs_f9w7doyu0h/croot/flask_1716545924884/work
-joblib @ file:///C:/b/abs_f4b98l6lgk/croot/joblib_1718217224240/work
-numpy @ file:///C:/b/abs_c1ywpu18ar/croot/numpy_and_numpy_base_1708638681471/work/dist/numpy-1.26.4-cp312-cp312-win_amd64.whl#sha256=becc06674317799ad0165a939a7613809d0bee9bd328a1e4308c57c39cacf08c
-streamlit @ file:///C:/b/abs_12o66j0das/croot/streamlit_1710262558078/work
-requests @ file:///C:/b/abs_9c5n24p1y7/croot/requests_1716902867639/work
-requests-file @ file:///Users/ktietz/demo/mc3/conda-bld/requests-file_1629455781986/work
-requests-toolbelt @ file:///C:/Users/dev-admin/perseverance-python-buildout/croot/requests-toolbelt_1699475466775/work
-scikit-learn @ file:///C:/b/abs_d6_krvz8aa/croot/scikit-learn_1714164798159/work
-pandas @ file:///C:/b/abs_9aotnvvz16/croot/pandas_1718308978393/work/dist/pandas-2.2.2-cp312-cp312-win_amd64.whl#sha256=93959056e02e9855025011adb18394296a58d49e72b9342733b7693a5267c790
-pandas-datareader==0.10.0
-numpydoc @ file:///C:/b/abs_bbspp5l8vu/croot/numpydoc_1718279185573/work
+altair==5.5.0
+attrs==24.3.0
+blinker==1.9.0
+cachetools==5.5.0
+certifi==2024.12.14
+charset-normalizer==3.4.1
+click==8.1.8
+colorama==0.4.6
+Flask==3.1.0
+gitdb==4.0.11
+GitPython==3.1.43
+idna==3.10
+itsdangerous==2.2.0
+Jinja2==3.1.5
+joblib==1.4.2
+jsonschema==4.23.0
+jsonschema-specifications==2024.10.1
+markdown-it-py==3.0.0
+MarkupSafe==3.0.2
+mdurl==0.1.2
+narwhals==1.20.1
+numpy==2.2.1
+packaging==24.2
+pandas==2.2.3
+pillow==11.0.0
+protobuf==5.29.2
+pyarrow==18.1.0
+pydeck==0.9.1
+Pygments==2.18.0
+python-dateutil==2.9.0.post0
+pytz==2024.2
+referencing==0.35.1
+requests==2.32.3
+rich==13.9.4
+rpds-py==0.22.3
+scikit-learn==1.6.0
+scipy==1.14.1
+six==1.17.0
+smmap==5.0.1
+streamlit==1.41.1
+tenacity==9.0.0
+threadpoolctl==3.5.0
+toml==0.10.2
+tornado==6.4.2
+typing_extensions==4.12.2
+tzdata==2024.2
+urllib3==2.3.0
+watchdog==6.0.0
+Werkzeug==3.1.3
