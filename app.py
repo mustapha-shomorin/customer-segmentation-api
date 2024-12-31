@@ -10,6 +10,11 @@ kmeans = joblib.load('kmeans_model.pkl')
 # Initialize Flask app
 app = Flask(__name__)
 
+
+@app.route('/')
+def home():
+    return "Welcome to the Customer Segmentation API!"
+
 # Define the prediction endpoint
 @app.route('/predict', methods=['POST'])
 def predict():
